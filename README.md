@@ -26,6 +26,7 @@ python train.py
 ![](./readmeDisplay/5.PNG)
 
 ![](./readmeDisplay/6.PNG)
+
 left is the style image and others are  my results.
 ---
 
