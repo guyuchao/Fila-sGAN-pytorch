@@ -1,5 +1,13 @@
 # Fila-sGAN-pytorch
-The code is an pytorch implementation of [《Synthesizing Filamentary Structured Images with GANs》](https://arxiv.org/abs/1706.02185)
+
+
+> Author: Yuchao Gu
+
+> E-mail: 2015014178@buct.edu.cn
+
+> Date: 2018-05-27
+
+>Description: The code is an pytorch implementation of [《Synthesizing Filamentary Structured Images with GANs》](https://arxiv.org/abs/1706.02185)
 
 ---
 
